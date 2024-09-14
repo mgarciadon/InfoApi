@@ -51,4 +51,4 @@ Feel free to fork the repository and submit pull requests. Please ensure that yo
 
 ## License
 
-This project is licensed - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [Software License](LICENSE.md) - see the `LICENSE.md` file for details.
